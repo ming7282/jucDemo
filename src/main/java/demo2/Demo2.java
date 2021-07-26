@@ -10,6 +10,7 @@ public class Demo2 {
         System.out.println("woaini ");
         ///≤‚ ‘
         ///666
+        ///77777
     }
 
 }
